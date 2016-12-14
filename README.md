@@ -13,7 +13,9 @@ Boards and Development Kits:
 
 Software : 
 
-Paricle IDE
+1- Paricle IDE
+2- Google spreadsheets
+3- IFTTT 
 
 Hardware
 
