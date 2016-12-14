@@ -53,7 +53,7 @@ function updateDailyTarget(){
    var Cell=sheet.getRange(ct + 1,7);
    Cell.setValue(d);
   
-   var target = sheet.getRange(2,4);
+   var target = sheet.getRange(2,3);
    var oldTargetValue=target.getValue();
   
  var targetForHistory=sheet.getRange(ct + 1, 8)
